@@ -1,0 +1,4 @@
+RMSE: 0.4629
+MAE: 0.3746
+Pearson Correlation Coefficient: 0.8380
+Accuracy : 0.6481818181818182

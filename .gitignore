@@ -1,1 +1,7 @@
 SCUT-FBP5500_v2/
+scut_vecs.tsv
+meta.tsv
+mnist_vecs.tsv
+mnist_meta.tsv
+resnet50_1.h5
+
